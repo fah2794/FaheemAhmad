@@ -18,13 +18,13 @@ Currently, I serve as a Young Professional at the Centre for Innovation and Tran
 
 My background spans various facets of the development sector, from grassroots implementation to high-level strategic planning:
 
-**Campaign & Governance Management:** As an Associate Campaign Manager at I-PAC, I led a 15-member team evaluating state welfare schemes across 310 Gram Panchayats in West Bengal. I played a key role in executing large-scale programs like Didi Suraksha Kawach and Duare Sarkar, acting as a primary liaison between the government and local stakeholders.
+1. **Campaign & Governance Management:** As an Associate Campaign Manager at I-PAC, I led a 15-member team evaluating state welfare schemes across 310 Gram Panchayats in West Bengal. I played a key role in executing large-scale programs like Didi Suraksha Kawach and Duare Sarkar, acting as a primary liaison between the government and local stakeholders.
 
-**Research & Analysis:** At ETG Research, I specialized in analyzing demographic and electoral trends to inform evidence-based strategies.
+2. **Research & Analysis:** At ETG Research, I specialized in analyzing demographic and electoral trends to inform evidence-based strategies.
 
-**Public Health & Environment:** I managed block-level health initiatives (RMNCH+A) with Care India in Bihar and contributed to water management programs through the Navjyoti India Foundation.
+3. **Public Health & Environment:** I managed block-level health initiatives (RMNCH+A) with Care India in Bihar and contributed to water management programs through the Navjyoti India Foundation.
 
-**Global Goals:** During a research internship with the United Nations Development Program (UNDP), I focused on disaggregating Sustainable Development Goals (SDGs) to the district and taluka levels to better target poverty reduction efforts.
+4. **Global Goals:** During a research internship with the United Nations Development Program (UNDP), I focused on disaggregating Sustainable Development Goals (SDGs) to the district and taluka levels to better target poverty reduction efforts.
 
 **Academic Foundation**
 I hold an M.A. in Sociology from Indira Gandhi National Open University (New Delhi) and a B.Tech in Information Technology from Kamla Nehru Institute of Technology (KNIT), Sultanpur. This unique combination of technical and social science training allows me to approach governance challenges with both analytical precision and a deep understanding of social dynamics. My preparation for the UPSC Civil Services Examination further enriched my knowledge of Indian polity, economy, and international relations.
