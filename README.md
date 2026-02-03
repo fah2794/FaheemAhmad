@@ -27,5 +27,6 @@ My background spans various facets of the development sector, from grassroots im
 4. **Global Goals:** During a research internship with the United Nations Development Program (UNDP), I focused on disaggregating Sustainable Development Goals (SDGs) to the district and taluka levels to better target poverty reduction efforts.
 
 **Academic Foundation**
+
 I hold an M.A. in Sociology from Indira Gandhi National Open University (New Delhi) and a B.Tech in Information Technology from Kamla Nehru Institute of Technology (KNIT), Sultanpur. This unique combination of technical and social science training allows me to approach governance challenges with both analytical precision and a deep understanding of social dynamics. My preparation for the UPSC Civil Services Examination further enriched my knowledge of Indian polity, economy, and international relations.
 I am passionate about leveraging data and stakeholder collaboration to create inclusive, sustainable development outcomes.
